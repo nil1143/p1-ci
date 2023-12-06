@@ -5,9 +5,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     background-color: yellowgreen;
-    font-family: 'Inconolata', sans-serif
+    font-family: 'Inconolata', sans-serif;
+    color: #ffffff;
 }
 
 /* Header */
@@ -17,5 +19,59 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 2px #3a3a3a;
+    box-shadow: 0 1px 1px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: black;
+}
+
+#menu {
+    list-style-type: none;
+    font-size: 120%;
+}
+
+#menu>li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+/* Dropdown nav bar */
+
+nav {
+    position: absolute;
+    background-color: gray;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 1px 1px #3a3a3a;
+    display: none;
+    top: 100%
+}
+
+/* Toggle nav */
+
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
