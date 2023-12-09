@@ -37,11 +37,19 @@ h1 {
 
 #menu {
     list-style-type: none;
-    font-size: 120%;
+    font-size: 110%;
+
 }
 
 #menu>li {
     margin-bottom: 1em;
+    color: #d3ad7f;
+    padding: 5px;
+}
+
+#menu>li:hover {
+    color: white;
+    font-size: 105%;
 }
 
 .active {
@@ -78,7 +86,9 @@ nav {
 /* MAIN */
 
 .main {
-    background: url("../bg.png");
+    width: 100%;
+    height: 600px;
+    background: url("../bg.webp") no-repeat center center/cover;
 
 }
 
