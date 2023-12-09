@@ -7,7 +7,6 @@
 }
 
 body {
-    background-color: yellowgreen;
     font-family: 'Inconolata', sans-serif;
     color: #ffffff;
 }
@@ -74,4 +73,34 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
+}
+
+/* MAIN */
+
+.main {
+    background: url("../bg.png");
+
+}
+
+/* 768px */
+@media screen and (min-width: 768px) {
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex
+    }
+
+    .nav-toggle-label {
+        display: none
+    }
+
+    #menu>li {
+        padding-left: 50px;
+    }
 }
