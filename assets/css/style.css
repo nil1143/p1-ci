@@ -13,7 +13,7 @@ body {
 
 /* Header */
 header {
-    background-color: gray;
+    background-color: rgb(41, 40, 40);
     padding: 1rem 1.4rem;
     position: fixed;
     z-index: 99;
@@ -58,7 +58,7 @@ header a {
 
 nav {
     position: absolute;
-    background-color: gray;
+    background-color: rgb(41, 40, 40);
     width: 100%;
     left: 0;
     padding: 0 1rem;
