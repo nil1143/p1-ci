@@ -100,19 +100,27 @@ nav {
 
 .welcome {
     text-align: center;
-    width: 60%;
-    position: absolute;
+    width: 80%;
     min-height: 130px;
-    background-color: rgba(222, 203, 203, 0.3);
-    margin-top: 330px;
+    background-color: rgba(222, 203, 203, 0.4);
+    margin-top: 350px;
     padding: 6px;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
+.welcome span {
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
 .welcome h2 {
-    font-size: 3rem;
+    font-size: 2.5rem;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 4px;
 }
 
 /* FOOTER */
@@ -161,5 +169,11 @@ footer {
 
     #menu>li {
         padding-left: 50px;
+    }
+
+    .welcome h2 {
+        font-size: 4rem;
+        font-family: 'Lato', sans-serif;
+        letter-spacing: 9px;
     }
 }
