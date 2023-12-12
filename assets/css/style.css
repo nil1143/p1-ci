@@ -9,7 +9,7 @@
 body {
     font-family: 'Inconolata', sans-serif;
     color: #ffffff;
-    /* position: absolute; */
+    background-color: black;
 }
 
 /* Header */
@@ -87,8 +87,9 @@ nav {
     transition: 0.5s;
 }
 
-/* MAI/* N */
+/* MAIN */
 
+/* Hero */
 .main {
     padding-top: 105px;
     width: 100%;
@@ -121,6 +122,37 @@ nav {
     font-size: 2.5rem;
     font-family: 'Lato', sans-serif;
     letter-spacing: 4px;
+}
+
+/* ABOUT US */
+.about-us {
+    width: 90%;
+    margin: 20px auto;
+
+}
+
+.info {
+    text-align: center;65
+
+}
+
+.info span {
+    letter-spacing: 2px;
+    font-weight: 600;
+    font-size: medium;
+}
+
+.info-image {
+    width: auto;
+    height: 300px;
+    margin-top: 7px;
+    background: url("../images/about-image.webp") no-repeat center center/cover;
+}
+
+.info-paragraph {
+    text-align: justify;
+    margin-top: 7px;
+    font-family: 'Lato', sans-serif;
 }
 
 /* FOOTER */
@@ -175,5 +207,22 @@ footer {
         font-size: 4rem;
         font-family: 'Lato', sans-serif;
         letter-spacing: 9px;
+    }
+
+    /* MAIN */
+
+    .about-us {
+        display: flex;
+        gap: 15px;
+
+    }
+
+    .info {
+        width: 50%;
+
+    }
+
+    .info-image {
+        width: 50%;
     }
 }
