@@ -200,6 +200,8 @@ footer {
 /* SIGN UP  */
 
 #signup {
+    background: url("../images/signup-background.webp") no-repeat center center/cover;
+    
     padding-top: 105px;
     position: relative;
 }
