@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="./assets//css/style.css">
+    <!-- Fav Icon -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/assets/icon/apple-touch-icon.png">
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/assets/icon/favicon-32x32.png">
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/assets/icon/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <!-- Tags for search and description -->
+    <meta name="description" content="Coffee Shop, coffee, Dublin">
+    <meta
+      name="keywords"
+      content="coffee, cafe, coffee shop, dublin, ireland, breakfast">
+    <title>Coffe Time</title>
+  </head>
+  <body>
+    <header>
+      <a href="index.html">
+        <img
+          src="./assets/images/WebCoffee.webp"
+          width="300"
+          alt="logo"
+          class="logo">
+      </a>
+      <input type="checkbox" id="nav-toggle" name="nav-toggle">
+      <label for="nav-toggle" class="nav-toggle-label">
+        <i class="fa-solid fa-bars"></i>
+        </label>
+      <!-- NavBAR -->
+      <nav>
+        <ul id="menu">
+          <li>
+            <a href="./index.html" 
+              ><i class="fa-solid fa-house"></i> Home</a
+            >
+          </li>
+          <li>
+            <a href="./gallery.html"
+              ><i class="fa-solid fa-mug-saucer"></i> Menu</a
+            >
+          </li>
+          <li>
+            <a href="./signup.html" class="active"
+              ><i class="fa-regular fa-envelope mr-3"></i> Contact Us</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <!-- MAIN -->
+    <main>
+        <section id="signup">
+            <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
+                <h2><i class="fa-solid fa-mug-saucer"></i> Get in touch!</h2>
+                <label for="first_name">First Name</label>
+                <br>
+                <input type="text" name="first_name" id="first_name" class="text-input" placeholder="Enter your first name" required>
+                <br>
+                <label for="last_name">Last Name</label>
+                <br>
+                <input type="text" name="last_name" id="last_name" class="text-input" placeholder="Enter your last name" required>
+                <br>
+                <label for="email_address">Email Address</label>
+                <br>
+                <input type="email" name="email_address" id="email_address" class="text-input" placeholder="Enter your email adress" required>
+                <br>
+                <label for="message">Message</label>
+                <br>
+                <textarea name="message" class="text-input" id="text-area" placeholder="Your message"></textarea>
+                <br>
+                <div>
+                    <input type="checkbox" name="coffee-newsletter" id="coffee" value="coffee" required checked>
+                    <label for="sumbit">I accept a newsletter and I confirm that I am a coffee lover!</label>
+                </div>
+                <button type="submit" class="join-button">Send!</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+      <ul id="social-networks">
+        <li class="instagram">
+          <a
+            href="https://www.instagram.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit our Instagram page (opens in new tab)"
+          >
+            <i class="fa-brands fa-instagram"></i
+          ></a>
+        </li>
+        <li class="facebook">
+          <a
+            href="https://www.facebook.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit our Facebook page (opens in new tab)"
+          >
+            <i class="fa-brands fa-square-facebook"></i
+          ></a>
+        </li>
+        <li class="twitter">
+          <a
+            href="https://www.twitter.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit our Twitter page (opens in new tab)"
+          >
+            <i class="fa-brands fa-twitter"></i
+          ></a>
+        </li>
+        <li class="linkedin">
+          <a
+            href="https://www.linkedin.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit our Linkedin page (opens in new tab)"
+          >
+            <i class="fa-brands fa-linkedin"></i
+          ></a>
+        </li>
+      </ul>
+    </footer>
+    <script src="https://kit.fontawesome.com/08ba1e35c6.js" crossorigin="anonymous"></script>
+  </body>
+</html>
