@@ -159,7 +159,7 @@ nav {
     font-family: 'Lato', sans-serif;
 }
 
-/* OPENING TIMES */
+/* TABLE OPENING TIMES */
 
 .opening-times {
     width: 100%;
@@ -168,6 +168,21 @@ nav {
     margin-bottom: 15px;
 }
 
+table {
+    width: 70%;
+    text-align: center;
+    font-size: 1rem;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 3px;
+}
+
+.th1 {
+    width: 40%
+}
+
+.th2 {
+    width: 60%;
+}
 
 th,
 td {
@@ -300,5 +315,10 @@ footer {
         max-width: 600px;
         position: relative;
         left: 5%;
+      }
+      /* TABLE Opening times */
+      table {
+        font-size: 1.5rem;
+    letter-spacing: 5px;
       }
 }
