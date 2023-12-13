@@ -153,7 +153,6 @@ nav {
 }
 
 .info-paragraph {
-    text-align: center;
     width: 270px;
     margin: auto;
     padding: 4px;
@@ -285,17 +284,15 @@ footer {
 
     .info {
         width: 40%;
+        margin-top: 80px;
 
     }
 
-    .info-paragraph {
-        width: 270px;
-        margin: auto
-        }
+
 
     .info-image {
         width: 75%;
-        height: 350px;
+        height: 550px;
     }
 
     /* Sign Up */
