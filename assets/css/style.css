@@ -168,7 +168,7 @@ nav {
     margin-bottom: 15px;
 }
 
-table {
+.table-opening {
     width: 70%;
     text-align: center;
     font-size: 1rem;
@@ -260,6 +260,29 @@ footer {
     font-size: 100%;
     background-color: #454b1b;
     color: #fafafa;
+}
+
+/* MENU SECTION */
+
+.menu-section {
+    padding-top: 105px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background-color: #eecea7;
+
+}
+
+.menu-caption {
+    margin-top: 30px;
+    padding: 5px;
+}
+
+.menu-table {
+    width: 90%;
+    padding-top: 1rem;
+    color: #4e4336;
+    
 }
 /* 768px */
 @media screen and (min-width: 768px) {
