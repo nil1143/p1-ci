@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&family=Kaushan+Script&family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 
 * {
     margin: 0;
@@ -186,7 +187,7 @@ nav {
 
 th,
 td {
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid #4e4336;
     padding: 3px;
 }
 
@@ -281,9 +282,14 @@ footer {
 .menu-table {
     width: 90%;
     padding-top: 1rem;
-    color: #4e4336;
-    
+    color: #4e4336;   
+    font-family: 'Kaushan Script', sans-serif;
 }
+
+.menu-table tr td {
+    padding-left: 2rem;
+}
+
 /* 768px */
 @media screen and (min-width: 768px) {
     nav {
@@ -344,4 +350,8 @@ footer {
         font-size: 1.25rem;
     letter-spacing: 5px;
       }
+      /* Menu */
+      .menu-table {
+        width: 70%; 
+    }
 }
