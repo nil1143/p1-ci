@@ -297,6 +297,7 @@ footer {
     padding-top: 105px;
     position: relative;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     background-color: #eecea7;
 
@@ -312,10 +313,27 @@ footer {
     padding-top: 1rem;
     color: #4e4336;   
     font-family: 'Kaushan Script', sans-serif;
+    text-align:justify;
+}
+
+.menu-table p {
+    font-size: 12px;
+}
+
+.menu-th1 {
+    width: 80%;
+}
+
+.menu-th2 {
+    width: 20%;
 }
 
 .menu-table tr td {
     padding-left: 2rem;
+}
+
+.menu-table p {
+    padding-left: 6px;
 }
 
 /* 768px */
@@ -387,4 +405,14 @@ footer {
       .menu-table {
         width: 70%; 
     }
+}
+
+
+/* 1200px */
+@media screen and (min-width: 1200px) {
+
+.menu-section {
+    display: flex;
+    flex-direction: row;
+}
 }
