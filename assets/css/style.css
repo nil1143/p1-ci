@@ -294,7 +294,7 @@ footer {
 /* MENU SECTION */
 
 .menu-section {
-    padding-top: 105px;
+    padding-top: 5px;
     position: relative;
     display: flex;
     flex-direction: column;
@@ -310,7 +310,7 @@ footer {
 
 .menu-table {
     width: 90%;
-    padding-top: 1rem;
+    padding-top: 0.5rem;
     color: #4e4336;   
     font-family: 'Kaushan Script', sans-serif;
     text-align:justify;
@@ -330,6 +330,7 @@ footer {
 
 .menu-table tr td {
     padding-left: 2rem;
+    padding-top: 0.5rem;
 }
 
 .menu-table p {
@@ -383,8 +384,6 @@ footer {
 
     }
 
-
-
     .info-image {
         width: 75%;
         height: 550px;
@@ -414,5 +413,10 @@ footer {
 .menu-section {
     display: flex;
     flex-direction: row;
+}
+
+.menu-table {
+    height: 550px;
+    padding: 10px;
 }
 }
