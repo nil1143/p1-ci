@@ -10,7 +10,7 @@
 body {
     font-family: 'Inconolata', sans-serif;
     color: #ffffff;
-    background-color: black;
+    background-color: rgb(30, 30, 30);
 }
 
 /* Header */
@@ -122,7 +122,7 @@ nav {
 
 .welcome h2 {
     font-size: 1.75rem;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Kaushan Script', sans-serif;
     letter-spacing: 4px;
 }
 
@@ -175,6 +175,10 @@ nav {
     font-size: 1rem;
     font-family: 'Oswald', sans-serif;
     letter-spacing: 3px;
+}
+
+.table-opening h2 {
+    padding-bottom: 20px;
 }
 
 .th1 {
@@ -314,7 +318,6 @@ footer {
 
     .welcome h2 {
         font-size: 3rem;
-        font-family: 'Lato', sans-serif;
         letter-spacing: 9px;
     }
 
@@ -346,10 +349,10 @@ footer {
         left: 5%;
       }
       /* TABLE Opening times */
-      table {
-        font-size: 1.25rem;
-    letter-spacing: 5px;
+      .table-opening {
+        width: 600px;
       }
+
       /* Menu */
       .menu-table {
         width: 70%; 
