@@ -113,17 +113,41 @@ nav {
     border-radius: 0 25px 25px 0
 }
 
+.welcome2 {
+    text-align: center;
+    width: 80%;
+    min-height: 80px;
+    background-color: rgba(34, 31, 31, 0.8);
+    margin-top: 100px;
+    padding: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius:  25px 0 0 25px ;
+    float: right;
+}
+
 .welcome span {
     font-size: 0.75rem;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 5px;
 }
-
-.welcome h2 {
+.welcome2 span {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    
+}
+.welcome-header {
     font-size: 1.75rem;
     font-family: 'Kaushan Script', sans-serif;
     letter-spacing: 4px;
+}
+
+.welcome2 h2 {
+    font-size: 1.25rem;
+    letter-spacing: 2px;
 }
 
 /* ABOUT US */
@@ -316,9 +340,15 @@ footer {
         padding-left: 50px;
     }
 
+    /* HERO */
+
     .welcome h2 {
         font-size: 3rem;
         letter-spacing: 9px;
+    }
+
+    .welcome2 {
+        width: 500px;
     }
 
     /* MAIN */
