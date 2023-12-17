@@ -252,8 +252,7 @@ footer {
 /* SIGN UP  */
 
 #signup {
-    background: url("../images/signup-background.webp") no-repeat center center/cover;
-    
+    background: url("../images/signup-background.webp") no-repeat center center/cover;  
     padding-top: 105px;
     position: relative;
 }
@@ -417,18 +416,23 @@ footer {
 /* 1200px */
 @media screen and (min-width: 1200px) {
 
-.menu-section {
+
+    #signup {
+        padding-top: 155px;
+        height: 900px;
+    }
+    .menu-section {
     display: flex;
     flex-direction: row;
-}
+    }
 
-.menu-table {
+    .menu-table {
     height: 550px;
     padding: 10px;
-}
+    }
 
-#map {
+    #map {
     width: 65%;
     margin: 20px auto;
-}
+    }
 }
