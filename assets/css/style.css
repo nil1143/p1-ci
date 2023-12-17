@@ -220,6 +220,9 @@ td {
     padding: 3px;
 }
 
+/* MAP */
+
+
 /* FOOTER */
 
 footer {
@@ -422,5 +425,10 @@ footer {
 .menu-table {
     height: 550px;
     padding: 10px;
+}
+
+#map {
+    width: 65%;
+    margin: 20px auto;
 }
 }
