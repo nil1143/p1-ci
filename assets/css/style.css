@@ -83,10 +83,6 @@ nav {
     font-size: 2rem;
 }
 
-.nav-toggle-label:hover {
-    color: #d3ad7f;
-    transition: 0.5s;
-}
 
 /* MAIN */
 
@@ -103,7 +99,7 @@ nav {
 .welcome {
     text-align: center;
     width: 60%;
-    min-height: 130px;
+    min-height: 120px;
     background-color: rgba(222, 203, 203, 0.4);
     margin-top: 100px;
     padding: 6px;
@@ -155,6 +151,11 @@ nav {
     width: 100%;
     margin: 20px auto;
     position: relative;
+}
+
+.about-us-header {
+    padding-bottom: 2rem;
+    font-family: 'Oswald', sans-serif;
 }
 
 .info {
@@ -271,10 +272,10 @@ footer {
     background: transparent;
     color: #fafafa;
     width: 60%;
-    height: 25px;
+    height: 40px;
     margin: 5px 0 20px 0;
-    border: 1px solid #fafafa;
-    border-radius: 2px;
+    border: 1px solid #d3ad7f;
+    border-radius: 5px;
     padding: 0 5px;
 }
 
@@ -282,13 +283,15 @@ footer {
     height: 100px;
 }
 
-.join-button {
+.send-button {
     margin-top: 20px;
-    border-radius: 2px;
-    padding: 15px 32px;
+    border-radius: 25px;
+    padding: 15px;
+    width: 120px;
     font-size: 100%;
-    background-color: #454b1b;
+    background-color: rgb(41, 40, 40);
     color: #fafafa;
+    border-color: #d3ad7f;
 }
 
 /* MENU SECTION */
@@ -390,6 +393,7 @@ footer {
     }
 
     /* Sign Up */
+
     #signup-form {
         max-width: 600px;
         position: relative;
