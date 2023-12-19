@@ -21,7 +21,7 @@
 
 ### **Navigation bar**
 A responsive navigation bar with company **logo** and **icons** which clearly navigate you to another pages. Inspired by Love Running Project. 
-> Logo created in [Canva](https://nil1143.github.io/p1-ci/) and Icons in whole website from [Font Awesome](https://fontawesome.com)
+> Logo created in [Canva](https://canva.com/) and Icons in whole website from [Font Awesome](https://fontawesome.com)
 
 
 ### **Home page**
