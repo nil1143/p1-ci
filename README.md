@@ -13,11 +13,11 @@
 - Testing
 
 
-# Description
+## **Description**
 
 ### Web Coffee  is a a simple website showcasing Cafe Shop and Restaurasnt in Dublin with delicious coffee and food. This website was created for educational purposes as part of the Code Institute Diploma in Full-Stack Software Development. 
 
-# Features
+## **Features**
 
 ### **Navigation bar**
 A responsive navigation bar with company **logo** and **icons** which clearly navigate you to another pages. Inspired by Love Running Project. 
