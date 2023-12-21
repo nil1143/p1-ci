@@ -8,11 +8,11 @@
  
 - Description
 - Features
-- Testimonials
 - UX
 - Wireframes
-- Technology used
 - Testing
+- Technology used
+
 
 
 # **Description**
@@ -80,6 +80,46 @@ Footer includes icons with the links to our social media.
 - I expect all information to be correct and accurate.
 
 
+
+
+# Testing
+
+## Validator testing
+- HTML
+ 
+  - index.html  
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fnil1143.github.io%2Fp1-ci%2Findex.html
+
+  - menu.html   
+  https://validator.w3.org/nu/?doc=https%3A%2F%2Fnil1143.github.io%2Fp1-ci%2Fmenu.html
+
+  - signup.html     
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fnil1143.github.io%2Fp1-ci%2Fsignup.html
+
+- CSS 
+
+    - https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fnil1143.github.io%2Fp1-ci%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+  
+- Lighthouse
+    - index.html    ![desktop](/assets/images/lighthouse-index.jpg) ![mobile](/assets/images/lighthouse-home-mobile.jpg)
+    - menu.html     ![menu desktop](/assets/images/lighthouse-menu.jpg)    ![menu mobile](/assets/images/lighthouse-menu-mobile.jpg)
+    - signup.html   ![signup desktop](/assets/images/lighthouse-signup.jpg) ![signup mobile](/assets/images/lighthouse-signup-mobile.jpg)
+  
+
+  
+## User Story Testing
+  
+
+
+User Story | Expected Result |  Pass |
+------------ | --------------- | ----- | 
+As a user, I want to navigate the website using multiple devices and access social media. | The website should open seamlessly on various devices with different screen sizes and across multiple browsers, including Google Chrome, Microsoft Edge, Mozilla Firefox, and Safari. | Passed | 
+As a user, I want to find general information about Web Coffee. | General information about Web Coffee is accessible. | Passed |
+As a user, I want to learn more about Web Coffee spot and Menu | Web Coffee map is on main page and Menu is easily accessible on the Menu page. | Passed
+As a user, I want to be able to easily contact the website and see- contact details. | For more information Contact me page. | Passed
+
+
+
 # Technology Used
 
     
@@ -104,10 +144,3 @@ Website.
 
 
 **[Figma](https://www.figma.com/)** - Company logo.
-
-
-# Testing
-
-validator w3
-
-<img src="https://ibb.co/ZWP0cb">
