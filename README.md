@@ -10,6 +10,7 @@
 - Features
 - Testimonials
 - UX
+- Wireframes
 - Technology used
 - Testing
 
@@ -79,4 +80,23 @@ Footer includes icons with the links to our social media.
 
 # Technology Used
 
-> Logo created in [Canva](https://canva.com/) and Icons in whole website from [Font Awesome](https://fontawesome.com)
+    
+**HTML** - The structure of the Website was developed using HTML as the main language.
+
+**CSS** - The Website was styled using custom CSS in an external file.
+
+**Javascript** - Font Awesome Icons were implemented using JavaScript.
+
+**VSCode** - The website was developed using Visual Studio Code IDE.
+
+**GitHub** - Source code is hosted on GitHub and delpoyed using Git Pages.
+
+**Git** - Used to commit and push code during the development opf the 
+Website.
+
+**Google Fonts** - Google Fonts were used to style the text on the webpage.
+
+**[Font Awesome](https://fontawesome.com)** - Icons were used as the Social media links in the footer section.
+
+
+**[Figma](https://www.figma.com/)** - Company logo and wireframes.
