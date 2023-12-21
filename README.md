@@ -116,6 +116,32 @@ Mobile
 
 ![index-desktop](/assets/images/footer-mobile.jpg)
 
+# Wireframes
+
+## Home
+### Desktop
+
+![wireframe1](/assets/images/index-wireframe.jpg)
+
+### Mobile
+
+![wireframe1](/assets/images/index-wireframe-mobile.jpg)
+
+## Menu
+### Desktop
+
+![wireframe1](/assets/images/menu-wireframe.jpg)
+
+### Mobile
+
+![wireframe1](/assets/images/menu-wireframe-mobile.jpg)
+
+## Contact Me
+### Desktop
+![wireframe1](/assets/images/form-wireframe.jpg)
+
+### Mobile
+![wireframe1](/assets/images/form-mobile.jpg)
 
 # Technology Used
 
