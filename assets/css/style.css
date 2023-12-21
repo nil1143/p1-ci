@@ -296,7 +296,7 @@ footer {
     border-color: #d3ad7f;
 }
 
-/* MENU SECTION */
+/* MENU PAGE */
 
 .menu-section {
     padding-top: 5px;
@@ -340,6 +340,14 @@ footer {
 
 .menu-table p {
     padding-left: 6px;
+}
+
+.music-box {
+    width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 /* 768px */
