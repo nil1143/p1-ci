@@ -37,14 +37,15 @@ The main page structured into 4 sections:
 
 ### **-Menu page**
 
-Menu is two-sections page:
+Menu is three-sections page:
 - The first section is duplicated Main/ welcome section from Home page.
 - Second section showcases two separated menus of our food and drinks selection.
-- 
+- Youtube video on the bottom
+  
 ### **-Contact Us page**
 The form to fill up with personal details and textarea for the message. Checkbox to accept newsletter.
 
-### Footer
+### **-Footer**
 
 Footer includes icons with the links to our social media.
 
