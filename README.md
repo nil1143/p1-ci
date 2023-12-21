@@ -15,19 +15,19 @@
 - Testing
 
 
-## **Description**
+# **Description**
 
 ### Web Coffee  is a a simple three-pages website showcasing Cafe Shop and Restaurasnt in Dublin with delicious coffee and food. This website was created for educational purposes as part of the Code Institute Diploma in Full-Stack Software Development. 
 
-## **Features**
+# **Features**
 
-### **Navigation bar**
+### **-Navigation bar**
 
 A responsive navigation bar with company **logo** and **icons** which navigate you to another pages. Inspired by Love Running Project. 
 
 
 
-### **Home page**
+### **-Home page**
 
 The main page structured into 4 sections:
 - Main/ welcome section which welcome a customer with a message and quote
@@ -35,12 +35,13 @@ The main page structured into 4 sections:
 - Opening times section with a table of opening times 
 - Section with coordinates of our location
 
-### **Menu page**
+### **-Menu page**
 
 Menu is two-sections page:
 - The first section is duplicated Main/ welcome section from Home page.
 - Second section showcases two separated menus of our food and drinks selection.
-### **Contact Us page**
+- 
+### **-Contact Us page**
 The form to fill up with personal details and textarea for the message. Checkbox to accept newsletter.
 
 ### Footer
@@ -96,7 +97,9 @@ Website.
 
 **Google Fonts** - Google Fonts were used to style the text on the webpage.
 
+**Balsamiq** - wireframes
+
 **[Font Awesome](https://fontawesome.com)** - Icons were used as the Social media links in the footer section.
 
 
-**[Figma](https://www.figma.com/)** - Company logo and wireframes.
+**[Figma](https://www.figma.com/)** - Company logo.
