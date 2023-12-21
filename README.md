@@ -26,8 +26,10 @@
 A responsive navigation bar with company **logo** and **icons** which navigate you to another pages. Inspired by Love Running Project. 
 
 Desktop
+
 ![index-desktop](/assets/images/nav-desktop.jpg)
 Mobile
+
 ![index-desktop](/assets/images/nav-mobile.jpg)
 
 
@@ -41,9 +43,11 @@ The main page structured into 4 sections:
 - Section with coordinates of our location
 
 Desktop
+
 ![index-desktop](/assets/images/index-image.jpg)
 
 Mobile
+
 ![index-desktop](/assets/images/index-mobile.jpg)
 ### **-Menu page**
 
@@ -53,16 +57,20 @@ Menu is three-sections page:
 - Youtube video on the bottom
 
 Desktop
+
 ![index-desktop](/assets/images/menu-image.jpg)
 Mobile
+
 ![index-desktop](/assets/images/menu-mobile.jpg)
   
 ### **-Contact Us page**
 The form to fill up with personal details and textarea for the message. Checkbox to accept newsletter.
 
 Desktop
+
 ![index-desktop](/assets/images/signup-image.jpg)
 Mobile
+
 ![index-desktop](/assets/images/signup-mobile.jpg)
 
 ### **-Footer**
@@ -70,8 +78,10 @@ Mobile
 Footer includes icons with the links to our social media.
 
 Desktop
+
 ![index-desktop](/assets/images/foot-dekstop.jpg)
 Mobile
+
 ![index-desktop](/assets/images/footer-mobile.jpg)
 
 
