@@ -11,13 +11,14 @@
 - Features
 - Wireframes
 - Testing
+- Deployment
 - Technology used
 
 
 
 # **Description**
 
-### Web Coffee  is a a simple three-pages website showcasing Cafe Shop and Restaurasnt in Dublin with delicious coffee and food. This website was created for educational purposes as part of the Code Institute Diploma in Full-Stack Software Development. 
+### Web Coffee  is a a simple three-pages website showcasing Cafe Shop and Restaurant in Dublin with delicious coffee and food. This website was created for educational purposes as part of the Code Institute Diploma in Full-Stack Software Development. 
 
 # UX
 ## User Stories
@@ -212,5 +213,26 @@ As a user, I want to find general information about Web Coffee. | General inform
 As a user, I want to learn more about Web Coffee spot and Menu | Web Coffee map is on main page and Menu is easily accessible on the Menu page. | Passed
 As a user, I want to be able to easily contact the website and see- contact details. | For more information Contact me page. | Passed
 
+# Deployment
+
+Deployment to Github Pages
+
+- The site was deployed to GitHub pages. The steps to deploy are:
+    - Select the repository from the repository list.
+    - Go to the 'Settings' tab.
+    - In the sidebar menu, navigate to 'Pages.'
+    - Select 'Deploy from a branch' and choose the desired branch.
+    - Click 'Save'.
+    - The link to access the deployed page will be displayed at the top of the page.
 
 
+Clone the Repository
+
+- Navigate to the GitHub Repository you want to clone to use locally:
+    - Click on the code drop down button
+    - Click on HTTPS
+    - Copy the repository link to the clipboard
+    - Open your IDE of choice
+    - Type git clone copied-git-url into the IDE terminal
+
+The project will now be cloned on your local machine for use.
