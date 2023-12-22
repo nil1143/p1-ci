@@ -59,10 +59,10 @@ A responsive navigation bar with company **logo** and **icons** which navigate y
 
 Desktop
 
-![index-desktop](/assets/images/nav-desktop.jpg)
+![index-desktop](/assets/readme-images/nav-desktop.jpg)
 Mobile
 
-![index-desktop](/assets/images/nav-mobile.jpg)
+![index-desktop](/assets/readme-images/nav-mobile.jpg)
 
 
 
@@ -76,11 +76,11 @@ The main page structured into 4 sections:
 
 Desktop
 
-![index-desktop](/assets/images/index-image.jpg)
+![index-desktop](/assets/readme-images/index-image.jpg)
 
 Mobile
 
-![index-desktop](/assets/images/index-mobile.jpg)
+![index-desktop](/assets/readme-images/index-mobile.jpg)
 ### **-Menu page**
 
 Menu is three-sections page:
@@ -90,20 +90,20 @@ Menu is three-sections page:
 
 Desktop
 
-![index-desktop](/assets/images/menu-image.jpg)
+![index-desktop](/assets/readme-images/menu-image.jpg)
 Mobile
 
-![index-desktop](/assets/images/menu-mobile.jpg)
+![index-desktop](/assets/readme-images/menu-mobile.jpg)
   
 ### **-Contact Us page**
 The form to fill up with personal details and textarea for the message. Checkbox to accept newsletter.
 
 Desktop
 
-![index-desktop](/assets/images/signup-image.jpg)
+![index-desktop](/assets/readme-images/signup-image.jpg)
 Mobile
 
-![index-desktop](/assets/images/signup-mobile.jpg)
+![index-desktop](/assets/readme-images/signup-mobile.jpg)
 
 ### **-Footer**
 
@@ -111,37 +111,37 @@ Footer includes icons with the links to our social media.
 
 Desktop
 
-![index-desktop](/assets/images/foot-dekstop.jpg)
+![index-desktop](/assets/readme-images/foot-dekstop.jpg)
 Mobile
 
-![index-desktop](/assets/images/footer-mobile.jpg)
+![index-desktop](/assets/readme-images/footer-mobile.jpg)
 
 # Wireframes
 
 ## Home
 ### Desktop
 
-![wireframe1](/assets/images/index-wireframe.jpg)
+![wireframe1](/assets/readme-images/index-wireframe.jpg)
 
 ### Mobile
 
-![wireframe1](/assets/images/index-wireframe-mobile.jpg)
+![wireframe1](/assets/readme-images/index-wireframe-mobile.jpg)
 
 ## Menu
 ### Desktop
 
-![wireframe1](/assets/images/menu-wireframe.jpg)
+![wireframe1](/assets/readme-images/menu-wireframe.jpg)
 
 ### Mobile
 
-![wireframe1](/assets/images/menu-wireframe-mobile.jpg)
+![wireframe1](/assets/readme-images/menu-wireframe-mobile.jpg)
 
 ## Contact Me
 ### Desktop
-![wireframe1](/assets/images/form-wireframe.jpg)
+![wireframe1](/assets/readme-images/form-wireframe.jpg)
 
 ### Mobile
-![wireframe1](/assets/images/form-mobile.jpg)
+![wireframe1](/assets/readme-images/form-mobile.jpg)
 
 # Technology Used
 
@@ -193,11 +193,11 @@ Website.
 - Lighthouse
     - index.html    
   
-  ![desktop](/assets/images/lighthouse-index.jpg) ![mobile](/assets/images/lighthouse-home-mobile.jpg)
+  ![desktop](/assets/readme-images/lighthouse-index.jpg) ![mobile](/assets/readme-images/lighthouse-home-mobile.jpg)
     - menu.html   
-    ![menu desktop](/assets/images/lighthouse-menu.jpg)    ![menu mobile](/assets/images/lighthouse-menu-mobile.jpg)
+    ![menu desktop](/assets/readme-images/lighthouse-menu.jpg)    ![menu mobile](/assets/readme-images/lighthouse-menu-mobile.jpg)
     - signup.html  
-   ![signup desktop](/assets/images/lighthouse-signup.jpg) ![signup mobile](/assets/images/lighthouse-signup-mobile.jpg)
+   ![signup desktop](/assets/readme-images/lighthouse-signup.jpg) ![signup mobile](/assets/readme-images/lighthouse-signup-mobile.jpg)
   
 
   
