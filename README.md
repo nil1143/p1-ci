@@ -236,3 +236,15 @@ Clone the Repository
     - Type git clone copied-git-url into the IDE terminal
 
 The project will now be cloned on your local machine for use.
+
+# Bugs
+
+- Had an issue with deploying .png file as a background image. Issue fixed with 'png to webp conventer'.
+- Issue with collapsing text in paragraph. Sorted by giving width and margin: auto.
+  
+# Credits
+
+- **[Figma](https://www.figma.com/)** - Company logo.
+- **[Pexels](https://www.pexels.com/)** - Images.
+- **[Font Awesome](https://fontawesome.com)** - Icons were used as the Social media links in the footer section.
+- **[W3Schools](https://www.w3schools.com/)** - iframe
